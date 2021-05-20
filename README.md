@@ -1,0 +1,1 @@
+# gmai-navigation-waypoints
